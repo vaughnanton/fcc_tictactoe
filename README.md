@@ -3,5 +3,7 @@ Browser implemented TicTacToe where the user gets to choose their team, whilst p
 Play the demo [here](https://codepen.io/vaughnanton/pen/RVpevz)!
 
 Languages: HTML, CSS, JavaScript
+
 Libraries: jQuery
+
 Frameworks: Bootstrap
